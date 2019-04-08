@@ -5,5 +5,5 @@ s = 'bodacious'
 # without using any quote characters in
 # your code.
 
-print z[0:2] + s[3:]
+print z[:2] + s[3:]
 
